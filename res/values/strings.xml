@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Race Pad</string>
+    <string name="paired_devices_title">Paired Devices</string>
+    <string name="action_settings">Settings</string>
+    <string name="bottom_banner_id">ca-app-pub-1031024450684911/5909287183</string>
+    <string name="top_banner_id">ca-app-pub-1031024450684911/3021369586</string>
+    <string name="welcome_msg">Welcome!!!</string>
+    <string name="connection_mode_title">Choose mode of connection</string>
+    <string name="feature_msg">Now enjoy best from your Racing games</string>
+    <string name="app_ver">Race Pad v2.1</string>
+    <string name="copyright">copyright &#169; 2016 BitsBlender Systems Software. All Rights Reserved.</string>
+    <string name="web_link">For More: bitsblender.wix.com/racepad</string>
+    <string name="credits">powered by Open Source Software Android &amp;  Eclipse ADT</string>
+    <string name="wifi_activity_headline">Scanning List of Devices in Network</string>
+    <string name="wifi_searching_note">!!! Note: If your IP is not listed please type manually !!!</string>
+    <string name="wifi_connect_btn">connect</string>
+    <string name="ip_hint">IP</string>
+    <string name="port_hint">PORT</string>
+    <string name="add_bt_device_btn">Pair Device Now</string>
+    <string name="mode_banner_add">ca-app-pub-1031024450684911/7289330388</string>
+    <string name="wifi_activity_banner_ad">ca-app-pub-1031024450684911/3021369586</string>
+
+</resources>

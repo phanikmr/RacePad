@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bitsblender.racepad.StarttingActivity" >
+    <item android:id="@+id/accerlometerOptions" android:title="Accerlometer Options"></item>
+	<item android:id="@+id/mousePointerSpeed" android:title="Mouse Pointer Speed"></item>
+	<item android:id="@+id/help" android:title="Help"></item>
+	<item android:id="@+id/about" android:title="About"></item>
+</menu>

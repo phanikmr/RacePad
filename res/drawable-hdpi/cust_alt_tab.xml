@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_pressed="true"
+        android:drawable="@drawable/task_butt_clicked"></item>
+	<item android:drawable="@drawable/alt_tab"></item>
+</selector>

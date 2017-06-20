@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#303030" 
+    android:paddingStart="40dp"
+    android:paddingEnd="40dp">
+	<LinearLayout 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal">
+      <ImageView
+            android:layout_width="350dp"
+            android:layout_height="100dp" 
+            android:padding="50dp"
+            android:background="@drawable/bitsblender_logo"
+            />
+     
+     <ImageView 
+          android:layout_width="100dp"
+          android:layout_height="100dp"
+          android:padding="50dp"
+          android:background="@drawable/ic_launcher"
+          />
+     </LinearLayout>
+  
+  <TextView 
+      android:text="@string/app_ver" 
+      android:textSize="30sp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textColor="#FFFFFF"
+      />
+  <TextView 
+      android:text="@string/copyright"
+      android:textSize="12sp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="#FFFFFF"
+      />
+    <TextView 
+      android:text="@string/credits"
+      android:textSize="12sp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="#FFFFFF"
+      />
+    <TextView 
+      android:text="@string/web_link"
+      android:textSize="15sp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:clickable="true"
+      android:autoLink="web"
+      android:textColor="#FFFFFF"
+      />
+    
+
+</LinearLayout>
