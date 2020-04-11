@@ -1,6 +1,9 @@
-![Alt text](https://static.wixstatic.com/media/0efaf2_ecdadcb1b3b64bea98d60bfc8b87cb53.png/v1/fill/w_51,h_50,al_c,usm_0.66_1.00_0.01/0efaf2_ecdadcb1b3b64bea98d60bfc8b87cb53.png "RacePadServer") from 
+![Alt text]
+(https://static.wixstatic.com/media/0efaf2_ecdadcb1b3b64bea98d60bfc8b87cb53.png/v1/fill/w_51,h_50,al_c,usm_0.66_1.00_0.01/0efaf2_ecdadcb1b3b64bea98d60bfc8b87cb53.png "RacePadServer") from 
 ![Alt text](https://static.wixstatic.com/media/0efaf2_94a76b718ee24ca38b1fbf452b5427e9.png/v1/fill/w_243,h_67,al_c,usm_0.66_1.00_0.01/0efaf2_94a76b718ee24ca38b1fbf452b5427e9.png "BitsBlender")
 # RacePad
+
+https://bitsblender.wixsite.com/racepad/downloads
 
 Playing games on your computer is an excellent way to entertain yourself in your free time, but sometimes not having certain hardware components, such as controllers, can be frustrating.
 
